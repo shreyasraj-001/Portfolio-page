@@ -13,21 +13,21 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/shreyasraj-001/Portfolio-master?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/shreyasraj-001/Portfolio-master?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/shreyasraj-001/Portfolio-page?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/shreyasraj-001/Portfolio-page?color=red&logo=github&style=for-the-badge)
 
 </center>
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/shreyasraj-001/Portfolio-master/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/shreyasraj-001/Portfolio-page/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/shreyasraj-001/Portfolio-master/issues">Request Feature</a>
+    <a href="https://github.com/shreyasraj-001/Portfolio-page/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [shreyasraj-001](https://github.com/shreyasraj-001/Portfolio-master/). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [shreyasraj-001](https://github.com/shreyasraj-001/Portfolio-page/). Thanks!
 
 ## Built With
 
