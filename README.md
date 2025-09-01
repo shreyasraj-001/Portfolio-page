@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://vercel.com/shreyasraj-001s-projects" target="_blank">Shreyas Raj</a>
+  <a href="https://shreyasraj.me/" target="_blank">Shreyas Raj</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
